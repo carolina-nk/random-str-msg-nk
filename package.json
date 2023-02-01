@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-nk",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random String Message",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,5 @@
   "bin": {
     "random-str-msg": "./bin/global.js"
   },
-  "preferGlobal" : true
+  "preferGlobal": true
 }
