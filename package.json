@@ -1,0 +1,26 @@
+{
+  "name": "random-str-msg-nk",
+  "version": "1.0.0",
+  "description": "Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolina-nk/random-str-msg-nk.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Carolina NK <mcchavarriaga5@misena.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carolina-nk/random-str-msg-nk/issues"
+  },
+  "homepage": "https://github.com/carolina-nk/random-str-msg-nk#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal" : true
+}
